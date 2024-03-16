@@ -1,0 +1,11 @@
+2024-03-15 14:19:18,998 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Now listening on: http://localhost:5114
+2024-03-15 14:19:19,048 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Application started. Press Ctrl+C to shut down.
+2024-03-15 14:19:19,050 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Hosting environment: Development
+2024-03-15 14:19:19,051 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Content root path: E:\Person1\WebApplication1\WebApplication1\
+2024-03-15 14:19:31,243 [15] INFO  WebApplication1.Controllers.HomeController [(null)] - open index
+2024-03-15 14:20:06,000 [26] INFO  WebApplication1.Controllers.HomeController [(null)] - open index
+2024-03-15 14:20:44,198 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Now listening on: http://localhost:5114
+2024-03-15 14:20:44,240 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Application started. Press Ctrl+C to shut down.
+2024-03-15 14:20:44,242 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Hosting environment: Development
+2024-03-15 14:20:44,243 [1] INFO  Microsoft.Hosting.Lifetime [(null)] - Content root path: E:\Person1\WebApplication1\WebApplication1\
+2024-03-15 14:20:49,676 [16] INFO  WebApplication1.Controllers.HomeController [(null)] - open index
