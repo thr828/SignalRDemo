@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "up8jBKkoIylM4auqLihc8IPucTXQWhSOQ0b6Sa9uWxERjPt9lakjAsZ8jJHRB6It9+j2SNBJe1gjuK4yQmgkqQ==",
+  "success": true,
+  "projectFilePath": "D:\\Modbus\\SignalRDemo\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\59204\\.nuget\\packages\\rabbitmq.client\\7.0.0-alpha.4\\rabbitmq.client.7.0.0-alpha.4.nupkg.sha512",
+    "C:\\Users\\59204\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\59204\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\59204\\.nuget\\packages\\system.threading.channels\\8.0.0\\system.threading.channels.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
