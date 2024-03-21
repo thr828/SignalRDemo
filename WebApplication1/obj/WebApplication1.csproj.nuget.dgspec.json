@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Person1\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "D:\\Modbus\\SignalRDemo\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "E:\\Person1\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "D:\\Modbus\\SignalRDemo\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Person1\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "D:\\Modbus\\SignalRDemo\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "E:\\Person1\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "D:\\Modbus\\SignalRDemo\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\59204\\.nuget\\packages\\",
-        "outputPath": "E:\\Person1\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "D:\\Modbus\\SignalRDemo\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -59,6 +59,10 @@
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.19.5, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
             },
             "Swashbuckle.AspNetCore.Swagger": {
               "target": "Package",

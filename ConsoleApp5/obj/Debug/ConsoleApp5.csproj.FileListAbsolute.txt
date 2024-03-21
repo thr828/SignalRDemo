@@ -1,0 +1,10 @@
+D:\Modbus\SignalRDemo\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+D:\Modbus\SignalRDemo\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+D:\Modbus\SignalRDemo\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+D:\Modbus\SignalRDemo\ConsoleApp5\bin\Debug\NModbus4.dll
+D:\Modbus\SignalRDemo\ConsoleApp5\bin\Debug\NModbus4.xml
+D:\Modbus\SignalRDemo\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+D:\Modbus\SignalRDemo\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\Modbus\SignalRDemo\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CopyComplete
+D:\Modbus\SignalRDemo\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+D:\Modbus\SignalRDemo\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
