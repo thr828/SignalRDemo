@@ -1,0 +1,8 @@
+D:\Modbus\SignalRDemo\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.AssemblyReference.cache
+D:\Modbus\SignalRDemo\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\Modbus\SignalRDemo\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+D:\Modbus\SignalRDemo\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+D:\Modbus\SignalRDemo\ConsoleApp6\bin\Debug\NModbus4.dll
+D:\Modbus\SignalRDemo\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CopyComplete
+D:\Modbus\SignalRDemo\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+D:\Modbus\SignalRDemo\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
